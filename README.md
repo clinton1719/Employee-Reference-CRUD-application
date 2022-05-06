@@ -9,7 +9,7 @@ This was an improvement over the previous CRUD application and I have used new t
 2. Maven
 3. Java 8
 4. Spring Data JPA
-5. Bootstrap
+5. Bootstrap & Thymeleaf for Frontend
 
 
 Below image shows the homepage of this application:
@@ -18,6 +18,6 @@ Below image shows the homepage of this application:
 
 Below image shows the Saving/Updating of this application:
 
-![Image](https://github.com/clinton1719/Employee-Reference-CRUD-application/blob/main/Home%20Page.PNG)
+![Image](https://github.com/clinton1719/Employee-Reference-CRUD-application/blob/main/Save.PNG)
 
 
